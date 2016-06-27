@@ -1,4 +1,4 @@
-# tiny_crake
+# mini_crake
 
 TODO: Write a description here
 
@@ -9,8 +9,8 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 dependencies:
-  tiny_crake:
-    github: [your-github-name]/tiny_crake
+  mini_crake:
+    github: [your-github-name]/mini_crake
 ```
 
 
@@ -18,7 +18,7 @@ dependencies:
 
 
 ```crystal
-require "tiny_crake"
+require "mini_crake"
 ```
 
 
@@ -30,7 +30,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/tiny_crake/fork )
+1. Fork it ( https://github.com/[your-github-name]/mini_crake/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
